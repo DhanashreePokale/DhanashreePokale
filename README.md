@@ -30,6 +30,7 @@ Welcome to my GitHub profile! I'm a results-driven Senior Supply Chain Data Scie
 - **[Outlier Detection](https://github.com/DhanashreePokale/Data-Mining/tree/master/Outlier%20Detection):** Performing image classification through machine learning
 - **[Regression & Naïve Bayes Classifiers](https://github.com/DhanashreePokale/Data-Mining/tree/master/Regression%20%26%20Na%C3%AFve%20Bayes%20Classifiers):** Performing  classification through linear, logistic and naive bayes classifiers
 - **[Statistical Analysis with Numpy](https://github.com/DhanashreePokale/Data-Mining/tree/master/Statistical%20Analysis%20with%20Numpy):** Understanding Numpy, SciPy and Scikit Learn
+- **[Banking: Predict Customer Subscription to CD](github.com/DhanashreePokale/BankMarketCaseStudy/tree/main):** Predict if the client will subscribe a term deposit.
 
 ## Connect with Me
 
