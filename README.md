@@ -14,9 +14,8 @@ Welcome to my GitHub profile! I'm a results-driven Senior Supply Chain Data Scie
 
 ## Featured Projects
 
-- **[Demand Forecasting](https://github.com/DhanashreePokale/TimeseriesForecasting):** Time series analysis and machine learning to predict product demand.
-- **[Inventory Optimization](https://github.com/DhanashreePokale/inventory-optimization):** Minimizing inventory costs while maintaining service levels.
-- **[Logistics Route Optimization](https://github.com/DhanashreePokale/logistics-route-optimization):** Efficient routes for logistics and transportation.
+- **[Demand Forecasting](https://github.com/DhanashreePokale/TimeseriesForecasting):** Time series analysis and forecasting.
+- **[Classification Methods](https://github.com/DhanashreePokale/Data-Mining/tree/master/Classification):**Performing classification through machine learning
 
 ## Connect with Me
 
