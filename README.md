@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a results-driven Senior Supply Chain Data Scie
 ## Featured Projects
 
 - **[Demand Forecasting](https://github.com/DhanashreePokale/TimeseriesForecasting):** Time series analysis and forecasting.
-- **[Classification Methods](https://github.com/DhanashreePokale/Data-Mining/tree/master/Classification):**Performing classification through machine learning
+- **[Classification Methods](https://github.com/DhanashreePokale/Data-Mining/tree/master/Classification):** Performing classification through machine learning
 
 ## Connect with Me
 
